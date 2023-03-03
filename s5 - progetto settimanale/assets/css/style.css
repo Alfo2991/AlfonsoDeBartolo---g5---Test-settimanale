@@ -1,9 +1,7 @@
 body {
     font-family: "Spectral", serif;
   }
-  .padre {
-    position: relative;
-  }
+ 
   nav {
     box-sizing: border-box;
     width: 100%;
